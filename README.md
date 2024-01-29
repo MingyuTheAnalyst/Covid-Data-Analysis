@@ -41,7 +41,7 @@ EDA involved exploring the COVID data to answer key questions, such as:
   Select location, date, total_cases, total_deaths, (Convert(decimal,total_deaths)/Convert(decimal,total_cases))*100 as DeathPercentage
 From portfolioproject..CovidDeaths
 Where location like '%Canada%' and continent is not null
-Order By 1,2
+Order By 1,2;
 '''
 
 ### Data Visualization - Tableau
