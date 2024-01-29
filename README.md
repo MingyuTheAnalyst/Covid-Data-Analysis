@@ -33,8 +33,8 @@ EDA involved exploring the COVID data to answer key questions, such as:
 
 ### Data Analysis
 
-[SQL Code-Data Exploration](https://github.com/MingyuTheAnalyst/Covid-Data-Analysis/blob/main/COVID19DataAnalysis.sql)
-[SQL Code-Data Extract for Tableau](https://github.com/MingyuTheAnalyst/Covid-Data-Analysis/blob/main/COVID19ForTableau.sql)
+- [SQL Code-Data Exploration](https://github.com/MingyuTheAnalyst/Covid-Data-Analysis/blob/main/COVID19DataAnalysis.sql)
+- [SQL Code-Data Extract for Tableau](https://github.com/MingyuTheAnalyst/Covid-Data-Analysis/blob/main/COVID19ForTableau.sql)
 
 ### Data Visualization - Tableau
 
