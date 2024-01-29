@@ -36,6 +36,14 @@ EDA involved exploring the COVID data to answer key questions, such as:
 - [SQL Code-Data Exploration](https://github.com/MingyuTheAnalyst/Covid-Data-Analysis/blob/main/COVID19DataAnalysis.sql)
 - [SQL Code-Data Extract for Tableau](https://github.com/MingyuTheAnalyst/Covid-Data-Analysis/blob/main/COVID19ForTableau.sql)
 
+  Include some interesting code/features worked with
+  '''sql
+  Select location, date, total_cases, total_deaths, (Convert(decimal,total_deaths)/Convert(decimal,total_cases))*100 as DeathPercentage
+From portfolioproject..CovidDeaths
+Where location like '%Canada%' and continent is not null
+Order By 1,2
+'''
+
 ### Data Visualization - Tableau
  - [Dashborad - Tableau](https://public.tableau.com/app/profile/mingyu.kim/viz/CovidPortfolioProject_17060535651500/Dashboard1#1)
  
