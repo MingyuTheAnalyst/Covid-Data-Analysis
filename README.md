@@ -38,6 +38,7 @@ EDA involved exploring the COVID data to answer key questions, such as:
 
 ### Data Visualization - Tableau
  - [Dashborad - Tableau](https://public.tableau.com/authoring/CovidPortfolioProject_17060535651500/Dashboard1#1)
+
 ![Cap 2024-01-29 15-35-24-077](https://github.com/MingyuTheAnalyst/Covid-Data-Analysis/assets/88122148/74ac1ec2-9f57-4676-9c2d-b108eaa161f1)
 
 
